@@ -190,7 +190,7 @@ jobs:
           # Fazer fetch de todas as branches
           git fetch origin main dev
           
-          # Fazer checkout da dev
+          # Fazer checkout da dev a
           git checkout dev
           
           # Fazer merge da main
